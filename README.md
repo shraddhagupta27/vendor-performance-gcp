@@ -34,7 +34,7 @@ Link: https://www.kaggle.com/datasets/harshmadhavan/vendor-performance-analysis
 - Performed EDA & hypothesis testing
 - Built interactive dashboard summarizing vendor-level performance
 
-## Key Insights (Example insights from analysis)
+## Key Insights
 
 - Total Sales across vendors exceeded $441M, while total Purchases were $307M, generating ~$134M in gross profit.
 - Profit margins varied significantly by vendor, enabling targeted renegotiation opportunities.
